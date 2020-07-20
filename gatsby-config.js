@@ -10,7 +10,7 @@ module.exports = {
     social: {
       twitter: `kylemathews`,
     },
-    pathPrefix: `/romeo-peter`,
+    pathPrefix: `/buddy-gatsby-blog`,
   },
   plugins: [
     {
